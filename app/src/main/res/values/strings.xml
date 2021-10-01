@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Visit Manali</string>
+    <string name="manali_view">Manali View</string>
+    <string name="visit_manali">Visit Manali</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map">Map</string>
+    <string name="india">India</string>
+    <string name="explore">Explore</string>
+    <string name="user">Asia</string>
+    <string name="manali">Manali</string>
+    <string name="text">
+        A gift of the Himalayas to the world, Manali is a beautiful township nestled in the picturesque Beas River Valley.</string>
+    <string name="book_a_flight">Book a flight</string>
+    <string name="info">More Info</string>
+    <string name="place_title">Place Title</string>
+    <string name="place_location">Place Location</string>
+    <string name="slogan">Where Adventure Meets Serenity</string>
+</resources>
