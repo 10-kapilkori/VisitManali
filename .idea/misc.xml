@@ -11,7 +11,10 @@
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_airplane.xml" value="0.30625" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_back_arrow.xml" value="0.2722222222222222" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.30625" />
+        <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2722222222222222" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_calendar.xml" value="0.30625" />
+        <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_filter.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_history.xml" value="0.2722222222222222" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_launcher_background.xml" value="0.30625" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_location.xml" value="0.30625" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_location_pressed.xml" value="0.30625" />
@@ -19,6 +22,7 @@
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_menu.xml" value="0.2722222222222222" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_temple.xml" value="0.30625" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_weather.xml" value="0.30625" />
+        <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/ic_weather_partly_cloudy.xml" value="0.2722222222222222" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/location_selector.xml" value="0.30625" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/main_img_background.xml" value="0.30625" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/drawable/places_bg.xml" value="0.2722222222222222" />
@@ -26,10 +30,10 @@
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/layout/activity_detail.xml" value="0.25787037037037036" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/layout/activity_home.xml" value="0.2708333333333333" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/layout/fragment_history.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/layout/fragment_history.xml" value="0.264" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/layout/fragment_places.xml" value="0.264" />
-        <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/layout/fragment_weather.xml" value="0.29010416666666666" />
+        <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/layout/fragment_weather.xml" value="0.25787037037037036" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/layout/places_items_list.xml" value="0.264" />
         <entry key="..\:/Users/anil cori/AndroidStudioProjects/VisitManali/app/src/main/res/menu/bottom_nav_main.xml" value="0.29010416666666666" />
       </map>

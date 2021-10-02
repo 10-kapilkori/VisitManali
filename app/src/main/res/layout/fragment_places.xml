@@ -58,7 +58,7 @@
                 android:layout_marginTop="8dp"
                 android:background="@drawable/places_bg"
                 android:scaleType="centerInside"
-                android:src="@drawable/ic_back_arrow"
+                android:src="@drawable/ic_spot"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
                 app:shapeAppearanceOverlay="@style/ShapeAbleUserIV" />

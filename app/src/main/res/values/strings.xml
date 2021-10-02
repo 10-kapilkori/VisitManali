@@ -16,4 +16,19 @@
     <string name="place_title">Place Title</string>
     <string name="place_location">Place Location</string>
     <string name="slogan">Where Adventure Meets Serenity</string>
+    <string name="history">History</string>
+    <string name="mythological_history">Mythological History</string>
+    <string name="mythological_text">
+        References about the Kullu valley in several mythological works like Ramayana, Mahabharata etc. lend credence to the ancientness of the land. According to Hindu mythology, the valley is regarded as the cradle of all humankind. After the great deluge, Manu, the progenitor of humanity, is said to have rested his ark on a hill side and established his abode at the present Manali, which is regarded as the changed name of ‘Manu-alaya’ (i.e. the home of Manu). Parshuram, regarded as one of the reincarnations of Vishnu, is believed to have inhabited the valley and the Parshuram temple in Nirmand is regarded as a living testimony of this mythological association.
+        According to some legends connected with the Ramayana period, Shringi Rishi, who had his abode near Banjar, attended the ‘Putreshti Yajna’ organized by Raja Dashratha after which Lord Ram was born. The name of the river Beas is assigned by common tradition to the celebrated saint Vashishtha, whose references are found in the Ramayana. Having become weary of life after the death of his sons, Vashishtha is said to have thrown himself in the river with his hands and feet tied. But the pious river burst his bonds and wafted him ashore unhurt.
+    </string>
+    <string name="documented_text">
+        The district of Kullu came into being on November 1, 1966. Various historical evidences including inscriptions on coins etc., accounts of travelers and other printed references point out to the antiquity of the tract and the people which constitute the district Kullu of the present. The history of Kullu has been traced some 2000 years back in time. The word ‘Kullu’ is speculated to have been derived from the word ‘Kuluta’ which was found inscribed on a coin from the first century A.D. The first king (Raja) mentioned in historical record is Virayasa whose name figures on that coin as ‘Virayasa, King of Kuluta’. The Chinese pilgrim, Hiuen Tsang, is believed to have described the modern Kullu as Kiu-lu-to situated at 117 miles to the north-east of Jalandhar. The tract has also been referred to as ‘Kulantapitha’, which translates to ‘the territory which marks the end of Kula i.e. the socio-religious system of the mainland’ or ‘the end of the habitable world’.
+    </string>
+    <string name="documented_history">Documented History</string>
+    <string name="weather">Weather</string>
+    <string name="date">Saturday Oct 02</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="temp">12</string>
+    <string name="sign">℃</string>
 </resources>
