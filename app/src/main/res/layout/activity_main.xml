@@ -10,7 +10,7 @@
         android:id="@+id/iv"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginTop="230dp"
+        android:layout_marginTop="270dp"
         android:contentDescription="@string/manali_view"
         android:scaleType="fitXY"
         android:src="@drawable/ic_airplane"
